@@ -24,4 +24,4 @@ A macOS SSH & SFTP terminal tool available on the Mac App Store.
 
 ## GitHub Stats
 
-![Ramadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rama19&show_icons=true&theme=default&hide_border=true)
+![Ramadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramadanma&show_icons=true&theme=default&hide_border=true)
